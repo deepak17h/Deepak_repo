@@ -1,2 +1,1 @@
-# Deepak_repo/Python_basic_assignment
-ASSIGNMENT_1
+# Deepak_repo
